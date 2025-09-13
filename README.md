@@ -1,1 +1,1 @@
-# Transaction-Management-GUI
+Manages transaction
